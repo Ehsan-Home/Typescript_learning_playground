@@ -1,0 +1,23 @@
+dependencies:
+  pnpm: 7.25.0
+devDependencies:
+  typescript: 4.9.4
+lockfileVersion: 5.2
+packages:
+  /pnpm/7.25.0:
+    dev: false
+    engines:
+      node: '>=14.6'
+    hasBin: true
+    resolution:
+      integrity: sha512-FGFQUON8kJ6ma39elJ8lyD8wPIfgp3opGJD9sX0TgIJk4zSr556qCgC8AN+3BFHe4yuRkEauf4JVLW2RKyyEcA==
+  /typescript/4.9.4:
+    dev: true
+    engines:
+      node: '>=4.2.0'
+    hasBin: true
+    resolution:
+      integrity: sha512-Uz+dTXYzxXXbsFpM86Wh3dKCxrQqUcVMxwU54orwlJjOpO3ao8L7j5lH+dWfTwgCwIuM9GQ2kvVotzYJMXTBZg==
+specifiers:
+  pnpm: ^7.25.0
+  typescript: ^4.9.4
