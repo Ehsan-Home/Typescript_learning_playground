@@ -1,11 +1,13 @@
 var x = 133;
 console.log(x);
 
-x = "ehsan";
+// typescript raise an error
+// x = "ehsan";
 console.log(x);
 
-y = parseInt(x);
-console.log(y++);
+// typescript raise an error
+// y = parseInt(x);
+// console.log(y++);
 
 const obj = {
   name: "ehsan",
