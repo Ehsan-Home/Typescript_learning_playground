@@ -1,4 +1,4 @@
-var x = 133;
+let x = 133;
 console.log(x);
 
 // typescript raise an error
