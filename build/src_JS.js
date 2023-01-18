@@ -7,9 +7,9 @@ console.log(x);
 // y = parseInt(x);
 // console.log(y++);
 const obj = {
-    name: "ehsan",
-    age: 27,
-    friends: ["amin", "mahdi", "hossien"],
+  name: "ehsan",
+  age: 27,
+  friends: ["amin", "mahdi", "hossien"],
 };
 console.log(obj["birthday"]);
 const friends = obj["freinds"];
